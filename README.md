@@ -1,7 +1,7 @@
 # Pizza Sales Analysis & Power BI Dashboard
 
 A data analysis project combining SQL Server analysis with Power BI reporting to explore pizza sales performance, customer demand, product mix and sales trends.
-https://github.com/Shiv1806/My-Sales-Project/blob/15fb4c7bb87aa81ea88558c3ca0f2bc11200be04/powerbi/screenshots/Dashboard%201.png
+
 ## Project Overview
 
 This project analyses a pizza sales dataset containing 48,360 records. The analysis uses SQL to calculate key sales and order metrics, explore trends and compare pizza categories, sizes and individual products. The results are presented through an interactive Power BI dashboard.
@@ -49,11 +49,11 @@ The Power BI report provides interactive views of sales performance, trends, cat
 
 **Overview - sales KPIs, order trends, category and size performance**
 
-![Pizza Sales Product Analysis](powerbi/screenshots/Dashboard1.png)
+![Pizza Sales Product Analysis]([powerbi/screenshots/Dashboard1.png](https://github.com/Shiv1806/My-Sales-Project/blob/15fb4c7bb87aa81ea88558c3ca0f2bc11200be04/powerbi/screenshots/Dashboard%201.png))
 
 **Product Analysis - top pizzas, sales by size and least-ordered pizzas**
 
-![Pizza Sales Product Analysis](powerbi/screenshots/dashboard2.png)
+![Pizza Sales Product Analysis](powerbi/screenshots/dashboard202.png)
 
 The original Power BI file is available in `powerbi/`, with dashboard screenshots in `powerbi/screenshots/`. 
 

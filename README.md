@@ -53,7 +53,7 @@ The Power BI report provides interactive views of sales performance, trends, cat
 
 **Product Analysis - top pizzas, sales by size and least-ordered pizzas**
 
-![Pizza Sales Product Analysis](powerbi/screenshots/dashboard202.png)
+(https://github.com/Shiv1806/My-Sales-Project/blob/15fb4c7bb87aa81ea88558c3ca0f2bc11200be04/powerbi/screenshots/dashboard%202.png)
 
 The original Power BI file is available in `powerbi/`, with dashboard screenshots in `powerbi/screenshots/`. 
 

@@ -59,7 +59,7 @@ The original Power BI file is available in `powerbi/`, with dashboard screenshot
 
 ## SQL Analysis
 
-The SQL script contains the analysis queries used to calculate KPIs and investigate sales trends and product performance. SQL queries results are available under docs.
+The SQL script contains the analysis queries used to calculate KPIs and investigate sales trends and product performance. SQL queries results are available under sql and docs folder.
 
 ## Notes
 

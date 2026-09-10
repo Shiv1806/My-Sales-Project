@@ -32,10 +32,10 @@ Pizza-Sales-Portfolio/
 │   └── pizza_sales.xlsx
 ├── docs/
 │   ├── Pizza-Sales-Analytics.md
-│   ├── Pizza-Sales-Dashboard-Export.pdf
-│   └── Pizza-Sales-SQL-Queries-Source.docx
+│   └── Pizza-Sales-SQL-Queries-Results.docx
 ├── powerbi/
 │   └── Data-Warehouse-Pizza-Sales.pbix
+│   └── screenshots
 ├── sql/
 │   └── pizza-sales-analysis.sql
 └── README.md
@@ -49,18 +49,18 @@ The Power BI report provides interactive views of sales performance, trends, cat
 
 **Overview - sales KPIs, order trends, category and size performance**
 
-![Pizza Sales Dashboard Overview](powerbi/screenshots/dashboard-overview.png)
+![Pizza Sales Dashboard Overview](powerbi/screenshots/Dashboard 1.png)
 
 **Product Analysis - top pizzas, sales by size and least-ordered pizzas**
 
-![Pizza Sales Product Analysis](powerbi/screenshots/dashboard-product-analysis.png)
+![Pizza Sales Product Analysis](powerbi/screenshots/dashboard 2.png)
 
-The original Power BI file is available in `powerbi/`, with dashboard screenshots in `powerbi/screenshots/`. A PDF export is included in `docs/` so the report can also be reviewed without Power BI Desktop.
+The original Power BI file is available in `powerbi/`, with dashboard screenshots in `powerbi/screenshots/`. 
 
 ## SQL Analysis
 
-The SQL script contains the analysis queries used to calculate KPIs and investigate sales trends and product performance.
+The SQL script contains the analysis queries used to calculate KPIs and investigate sales trends and product performance. SQL queries results are available under docs.
 
 ## Notes
 
-This repository contains the original project artefacts supplied for the Pizza Sales analysis. The README is a summary of the work; detailed project notes and source queries are retained in the `docs/` and `sql/` folders.
+This repository contains the original project artefacts supplied for the Pizza Sales analysis. The README is a summary of the work.

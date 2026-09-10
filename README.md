@@ -49,7 +49,7 @@ The Power BI report provides interactive views of sales performance, trends, cat
 
 **Overview - sales KPIs, order trends, category and size performance**
 
-![Pizza Sales Dashboard Overview](powerbi/screenshots/Dashboard 1.png)
+(powerbi/screenshots/Dashboard 1.png)
 
 **Product Analysis - top pizzas, sales by size and least-ordered pizzas**
 
